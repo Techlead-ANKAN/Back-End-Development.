@@ -1,0 +1,17 @@
+{
+  "name": "1_practice",
+  "version": "1.0.0",
+  "description": "This is the Practice Space for 1_DEPLOY...",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ankan Maity",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
