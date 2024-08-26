@@ -1,0 +1,3 @@
+# intialising an application from Node Package manager (NPM)
+
+----> npm init
